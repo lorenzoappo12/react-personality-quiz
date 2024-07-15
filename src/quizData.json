@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "question": "Question 1: Your ideal weekend?",
+    "options": [
+      { "id": "A", "text": "Saving the world" },
+      { "id": "B", "text": "Training and improving skills" },
+      { "id": "C", "text": "Spending time with loved ones" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Question 2: Your greatest strength?",
+    "options": [
+      { "id": "A", "text": "Physical strength" },
+      { "id": "B", "text": "Intelligence" },
+      { "id": "C", "text": "Compassion" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Question 3: Your biggest weakness?",
+    "options": [
+      { "id": "A", "text": "Kryptonite" },
+      { "id": "B", "text": "Trust issues" },
+      { "id": "C", "text": "Loved ones in danger" }
+    ]
+  }
+]
